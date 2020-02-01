@@ -1,0 +1,125 @@
+body{
+    margin:0px
+}
+
+.menu{
+background-color:red; 
+height: 50px;
+width: max-content;
+margin: auto;
+
+}
+.menu{
+    padding-left: 50px;
+    padding-right: 50px;
+    color: black;
+    padding-top: 20px;
+    
+}
+.menu a:hover{
+    color: rgb(85, 142, 192);
+    text-decoration: none;
+}
+.menuu {
+    background-color: red;}
+.menuu a {
+    text-decoration: none;
+    color: seashell;
+    margin: 60px;
+    font-size: 150%;
+
+}
+
+
+
+
+.mu1{
+    background-color: rgb(100, 38, 19);
+    padding-top: 100px;  
+    margin-top: -20px; 
+ }
+.cour{
+text-align: center;
+
+}
+
+.test{
+
+    border: 1px solid red;
+    width: 250px;
+    height: 250px;
+    display: inline-block; /** remove**/
+    margin-left: 150px;
+    }
+    .mu2 iframe{
+        width:420px;
+        height: 315px; 
+margin-left: 600px;    } 
+    .mu2{
+        background-color: rgb(104, 13, 10);
+        margin-top: -20px;
+    }
+    .mu2 h2{
+        text-align: center;
+    }
+    .mu1 button{
+    }
+    .mu1 a{
+        font-size: 200%;
+        margin-left: 800px;
+        text-decoration: none;
+        color: rgb(25, 0, 138);
+    }
+    .fb{
+        margin-left: 700px;
+        font-size: 200%;
+    }
+   .im2 {
+       background-size: cover;
+   }
+   .form {
+       background-color: darkslategrey;     
+         height: max-content;
+       margin-top: -20px;
+
+
+   }.form a{
+       font-size: 120%;
+margin-left: 700px;
+margin-top: 40px;
+padding: 20px;
+border-radius: 10%;
+
+   }
+   .form h2{
+       margin-left: 700px;
+   }
+   .form input[type=text] {
+       margin-left: 700px;
+       width: 300px;
+       height: 30px;
+   }
+  #sele {
+    margin-left: 700px;
+    width: 300px;
+    height: 30px;
+}
+.form input[type=password] {
+    margin-left: 700px;
+    width: 300px;
+    height: 30px;
+}
+.form input[type=number] {
+    margin-left: 700px;
+    width: 300px;
+    height: 30px;
+}
+.form button[type=submit] {
+    margin-left: 700px;
+    width: 300px;
+    height: 30px;
+}
+.form h2:hover{
+    color: floralwhite;
+
+}
